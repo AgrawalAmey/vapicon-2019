@@ -1,23 +1,28 @@
 - 
   group: "General sponsor"
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-- 
-  group: "With support of"
-  elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg", width: "120px"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
-- 
-  group: "Information partners"
-  elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+    - {name: "Lupin Pharma",  imageUrl: "lupin.png"}
+    - {name: "Mankind Pharma",  imageUrl: "mankind.jpg"}
+    - {name: "Sunpharma",  imageUrl: "Sunpharma.png"}
+    - {name: "Dr Reddys Lab",  imageUrl: "Dr Reddys.png"}
+    - {name: "Abott",  imageUrl: "abott.jpg"}
+    - {name: "Aristo",  imageUrl: "aristo.jpeg"}
+    - {name: "Medley",  imageUrl: "Medley.png"}
+    - {name: "Ajanta Pharma",  imageUrl: "Ajanta.jpeg"}
+    - {name: "Eris",  imageUrl: "Eris.jpeg"}
+    - {name: "Unichem Lab",  imageUrl: "Unichem.png"}
+    
+    - {name: "Macleods",  imageUrl: "Macleods.png"}
+    
+    - {name: "Emcure",  imageUrl: "emcure.gif"}
+    - {name: "Zuventus",  imageUrl: "zuventus.png"}
+    - {name: "Elder",  imageUrl: "elder.jpg"}
+    - {name: "Precia Pharma",  imageUrl: "precia.jpg"}
+    - {name: "Novartis Health Care",  imageUrl: "novartis.png"}
+    - {name: "Wipro G E Healthcare",  imageUrl: "ge.jpg"}
+    - {name: "GSK cobadex",  imageUrl: "gsk.jpeg"}
+    - {name: "Ranbaxy lab limited",  imageUrl: "ranbaxy.jpg"}
+    - {name: "Merck seno",  imageUrl: "merck.jpg"}
+    - {name: "Bicon ltd",  imageUrl: "bicon.png"}
+    - {name: "Cipla Pharma",  imageUrl: "cipla.png"}
+

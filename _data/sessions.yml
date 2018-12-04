@@ -11,49 +11,157 @@
   service: true
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
+  title: "Thrombolytic Therapy in ischemic stroke akluj model"
+  subtype: presentation
+  speakers: [20]
   language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  title: "Triple or quadriple drug therapy in type II DM -the rationale"
   subtype: presentation
-  speakers: [4, 5]
+  speakers: [3]
   language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "Controversies in Diet Management in obese with type II DM -myth and reality"
+  subtype: presentation
+  speakers: [6]
+  language: en
+-
+  id: 004
+  title: "Gut Microbiota and DM "
   subtype: presentation
   speakers: [4]
   language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
+  title: "Management of blood sugar in ICU"
+  subtype: presentation
+  speakers: [17]
   language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 006
+  title: "Pitfalls in ICU"
+  subtype: presentation
+  speakers: [5]
+  language: en  
+-
+  id: 007
+  title: "Bipap -when  to use and when to avoid"
+  subtype: presentation
+  speakers: [18]
+  language: en    
+-
+  id: 008
+  title: "Comprehensive management of CCF"
+  subtype: presentation
+  speakers: [10]
+  language: en      
+-
+  id: 009
+  title: "Use of ARNI in heart failure-case based approach"
+  subtype: presentation
+  speakers: [21]
+  language: en   
+-
+  id: 018
+  title: "Dyslipidemia guidelines- update 2018"
+  subtype: presentation
+  speakers: [9]
+  language: en  
+-
+  id: 019
+  title: "Hypertension update "
+  subtype: presentation
+  speakers: [13]
+  language: en  
+-
+  id: 028
+  title: "Management of secondary hypertension "
+  subtype: presentation
+  speakers: [14]
+  language: en    
+-
+  id: 029
+  title: "Is antibitotic must for every patient with fever "
+  subtype: presentation
+  speakers: [7]
+  language: en    
+-
+  id: 038
+  title: "Scrub Typhus"
+  subtype: presentation
+  speakers: [12]
+  language: en    
+-
+  id: 039
+  title: "Case based discussion on TB"
+  subtype: presentation
+  speakers: [7]
+  language: en    
+-
+  id: 048
+  title: "Microbiology-from the microscope to the the need of my hospital"
+  subtype: presentation
+  speakers: [22]
+  language: en     
+-
+  id: 049
+  title: "Evaluation and treatment of Hepatitis B and C"
+  subtype: presentation
+  speakers: [19]
+  language: en     
+-
+  id: 058
+  title: "Fever with Leucopenia "
+  subtype: presentation
+  speakers: [24]
+  language: en       
+-
+  id: 059
+  title: "Clinicopathological discussion(award of 5000 rupees for spot diagnosis) "
+  subtype: presentation
+  speakers: [24,23]
+  language: en  
+-
+  id: 068
+  title: "CSF evaluation in delirious patients "
+  subtype: presentation
+  speakers: [25]
+  language: en     
+
+-
+  id: 069
+  title: "Approach to Patient of Chronic cough "
+  subtype: presentation
+  speakers: [19]
+  language: en     
+-
+  id: 078
+  title: "Biological therapy in rhematoid arthritis"
+  subtype: presentation
+  speakers: [15]
+  language: en     
+-
+  id: 079
+  title: "Abdominal pain in physician practice"
+  subtype: presentation
+  speakers: [11]
+  language: en     
+-
+  id: 080
+  title: "Pitfalls in calculation of GFR "
+  subtype: presentation
+  speakers: [16]
+  language: en           
+-
+  id: 081
+  title: "Management of Anemia in ICU "
+  subtype: presentation
+  speakers: [8]
+  language: en           
+-
+  id: 082
+  title: "Yet to be finalized "
+  subtype: presentation
+  language: en    
