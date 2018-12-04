@@ -15,7 +15,7 @@ email: "agrawalan@rknec.edu"
 description: "Annual Conference of The Asssociation Of Physicians Of India Vidarbha Chapter"
 baseurl: "/zeppelin"
 url: "https://gdg-x.github.io"
-permalink: "/blog/:title"
+permalink: "/news/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
@@ -38,12 +38,12 @@ twitterAccount: "@Vapicon"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/news/", text: "News"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Poster Presentation"}
+#  - {permalink: "/hackathon/", text: "Poster Presentation"}
 
 
 # Hero Block
@@ -52,8 +52,6 @@ heroTitle: "Vapicon <typeout> 2019"
 eventDate: "January 12th 13th, 2019"
 typeoutTextValues: '"", "Season", "Yavatmal"'
 typeoutFallback: "Season"
-heroButtons:
- - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About Vapicon"
@@ -111,18 +109,15 @@ twitterHashTag: "Vapicon"
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
-
 
 # Tickets Block
-ticketsTitle: "Pricetable"
+ticketsTitle: "Tickets"
 ticketsInfo: "Tickets grant access to all conference sections, breakfast, lunch and banquet. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
   name: "Early Bird"
   price: "4000"
   priceCurrency: "Rupees"
- 
   ticketContentList: ["Valid for all lectures", "Refreshments", "Banquet"]
   validFrom: "2018-11-20T10:00"
   validThrough: "2018-12-31T23:59"
@@ -135,7 +130,6 @@ ticketsOffers:
   ticketContentList: ["Valid for all lectures", "Refreshments", "Banquet"]
   validFrom: "2019-01-01T00:00"
   validThrough: "2019-01-11T23:59"
-
  -
   name: "Spot"
   price: "6000"
@@ -144,7 +138,14 @@ ticketsOffers:
   validFrom: "2019-01-12T10:00"
   validThrough: "2019-01-13T23:59"
   featured: true
-  
+ -
+  name: "Students"
+  price: "1500"
+  priceCurrency: "Rupees"
+  ticketContentList: ["Valid for all lectures", "Refreshments", "Banquet"]
+  validFrom: "2018-11-20T10:00"
+  validThrough: "2019-01-13T23:59"
+  featured: true
 
 # Footer
 
