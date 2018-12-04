@@ -1,18 +1,18 @@
 
 - 
   id: 0
-  name: "Dr  Baba"
+  name: "Dr.  Baba"
   surname: "Yelke"
   title: "Organizing Vice Chairman"
   thumbnailUrl: yelke.jpeg
 - 
   id: 1
-  name: "Dr  P.P"
+  name: "Dr.  P.P."
   surname: "Joshi"
   thumbnailUrl: joshi.jpeg 
 - 
   id: 2
-  name: "Dr  P.K"
+  name: "Dr.  P.K."
   surname: "Deshpande"
   thumbnailUrl: prabhakar.jpg
 

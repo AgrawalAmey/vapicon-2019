@@ -1,7 +1,7 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "API Yvatmal", description: "It is an Association of Physicins",  imageUrl: "api.png"}
-    - {name: "V.N.G.M.C", description: "It is ann government medical college in Yavatmal",  imageUrl: "gmc.jpeg"}
+    - {name: "API Yavatmal", description: "Yavataml Chapter of Association of Physician India",  imageUrl: "api.png"}
+    - {name: "VNGMC", description: "It is an government medical college in Yavatmal",  imageUrl: "gmc.jpeg"}
  
  

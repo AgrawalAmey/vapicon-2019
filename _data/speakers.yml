@@ -1,19 +1,18 @@
 - 
   id: 3
-  name: "Dr Vijay"
+  name: "Dr. Vijay"
   surname: "Panikar"
   company: "Dr. Panikar's Speciality Care Centre"
-  title: "Dr"
+  
   bio: "Dr. Vijay Panikar is a Diabetologist in Bandra East, Mumbai Dr. Vijay Panikar practices at Dr. Panikar's Speciality Care Centre in Bandra East, Mumbai. "
   thumbnailUrl: drvijaypannikar.jpg
   rockstar: true
   
 - 
   id: 4
-  name: "Dr Vijay"
+  name: "Dr. Vijay"
   surname: "Negalur"
   company: "Dr. Negalur's Diabetes & Thyroid Specialities Center"
-  title: "Dr"
   bio: "Dr. Vijay Negalur is a General Endocrinologist, Diabetologist, and Consultant Physician at Thane West and has an experience of 37 years in these fields. Dr. Vijay Negalur practices at Dr. Negalur's Diabetes & Thyroid Specialities Center in Owala, Ghodbunder Road, Thane. He completed MD - General Medicine from Grant Medical College, JJ Group of Hospitals Mumbai in 1980 and FICP from API, New Delhi in 2005.
 He is a member of European Association for the Study of Diabetes (EASD), American Diabetes Association (ADA), Association of Physicians of India and ADCP. Some of the services provided by the doctor are adult diabetes, thyroid problem, hypertension, insulin treatment and type 1 diabetes treatment etc."
   thumbnailUrl: vijay.jpg
@@ -21,20 +20,18 @@ He is a member of European Association for the Study of Diabetes (EASD), America
   
 - 
   id: 5
-  name: "Dr Raj Kumar"
+  name: "Dr. Raj Kumar"
   surname: "Mani"
   company: "Nayati Healthcare & Research Pvt., Ltd., CEO-Medical, Chairman - Pulmonology & Critical Care"
-  title: "Dr"
   bio: "Areas of Interest : End of life care, extracorporeal lung support, non-invasive ventilation, infection control.
 Other Information : Editor-in-Chief, Indian Journal of Critical Care Medicine, Visiting Honorary Consultant – Saket City Hospital, New Delhi"
   thumbnailUrl: rajkumarmani.jpg
   rockstar: true
 - 
   id: 6
-  name: "Dr Yashpal"
+  name: "Dr. Yashpal"
   surname: "Gogate"
   company: "Harmony Health Club Clinic"
-  title: "Dr"
   bio: "Dr. Yashpal Gogate is a General Physician and Endocrinologist in Tidke Nagar, Nashik and has an experience of 13 years in these fields. Dr. Yashpal Gogate practices at Harmony Health Club Clinic in Tidke Nagar, Nashik. He completed MBBS from Gandhi Medical College, Bhopal in 2005,MD - Medicine from Dr V M Medical College,Solapur in 2009 and DM - Endocrinology from POSTGRADUATE INSTITUTE OF MEDICAL EDUCATION AND RESEARCH, CHANDIGARH in 2013.
 Some of the services provided by the doctor are: Congenital Disorders Evaluation / Treatment,Pituitary Diseases,Bronchial Asthma Treatment and Thyroid Disorder Treatment etc."
   thumbnailUrl: yashpalgogte.jpg
@@ -42,137 +39,118 @@ Some of the services provided by the doctor are: Congenital Disorders Evaluation
   
 - 
   id: 7
-  name: "DR Piyush"
+  name: "Dr. Piyush"
   surname: "Choudhary"
   company: "Polaris HealthCare"
-  title: "Dr"
   bio: "Dr. Piyush Choudhary (Polaris HealthCare) in Pune has made a rather exceptional name in the city. According to many, the doctor classifies as one of the 'go-to' general physicians in the area. The stronghold this doctor has in the medical field has not only drawn in patients from in and around the vicinity but from across the city as well. The clinic is located in Wakad and can be found easily as it is right Wakad Dange Chowk Road. Conveyance is easily available and the place is well connected. The neighbourhood is filled with an considerable number of commercial spaces as well as residential ones. The doctor's determination stems from sheer passion to offer patients healthier living options. Knowing that with the ever increasing and changing lifestyle, there is a need for general physicians in the city and windows to better one's health. This physician possesses an impressive amount of knowledge and constantly keeps updated with advancements made in the field. "
   thumbnailUrl: piyush.jpg
   rockstar: true
 - 
   id: 8
-  name: "Dr Avinash"
+  name: "Dr. Avinash"
   surname: "Pofali"
-  title: "Dr"
   thumbnailUrl: avinash.jpg
   rockstar: true
 - 
   id: 9
-  name: "Dr Mahesh"
+  name: "Dr. Mahesh"
   surname: "Fulwani"
-  title: "Dr"
   thumbnailUrl: drmahesh.jpg
   rockstar: true
 - 
   id: 10
-  name: "Dr G.P"
+  name: "Dr. G. P. "
   surname: "Ratnaparkhi"
-  title: "Dr"
   thumbnailUrl: gp.jpg
   rockstar: true
 - 
   id: 11
-  name: "Dr Manoj"
+  name: "Dr. Manoj"
   surname: "Vyavhare"
-  title: "Dr"
   thumbnailUrl: manoj.jpeg
   rockstar: true  
 - 
   id: 12
-  name: "Dr Nitin"
+  name: "Dr. Nitin"
   surname: "Shinde"
-  title: "Dr"
   thumbnailUrl: nitin.jpg
   rockstar: true  
 - 
   id: 13
-  name: "Dr N.V"
+  name: "Dr. N. V. "
   surname: "Deshpande"
-  title: "Dr"
   thumbnailUrl: nv.jpg
   rockstar: true    
 - 
   id: 14
-  name: "Dr Pankaj"
+  name: "Dr. Pankaj"
   surname: "Harkut"
-  title: "Dr"
   thumbnailUrl: pankaj.jpg
   rockstar: true   
 - 
   id: 15
-  name: "Dr Parikshit"
+  name: "Dr. Parikshit"
   surname: "Sagdeo"
-  title: "Dr"
   thumbnailUrl: parikshit.jpg
   rockstar: true    
 - 
   id: 16
-  name: "Dr Prakash"
+  name: "Dr. Prakash"
   surname: "Khetan"
-  title: "Dr"
   thumbnailUrl: prakash.jpeg
   rockstar: true    
 - 
   id: 17
-  name: "DR Pramod "
+  name: "Dr. Pramod "
   surname: "Gandhi"
-  title: "Dr"
   thumbnailUrl: pramod.png
   rockstar: true  
 - 
   id: 18
-  name: "Dr Rajan "
+  name: "Dr. Rajan "
   surname: "Barokar"
-  title: "Dr"
   thumbnailUrl: rajan.jpg
   rockstar: true     
 - 
   id: 19
-  name: "Dr Shrikant "
+  name: "Dr. Shrikant "
   surname: "Mukewar"
-  title: "Dr"
   thumbnailUrl: srikant.jpeg
   rockstar: true 
 - 
   id: 20
-  name: "Dr Ninad"
+  name: "Dr. Ninad"
   surname: "Phade"
-  title: "Dr"
   thumbnailUrl: ninad.jpeg
   rockstar: true   
 - 
   id: 21
-  name: "Dr Rushikesh"
+  name: "Dr. Rushikesh"
   surname: " Umalkar"
-  title: "Dr"
   thumbnailUrl: rushikesh.jpeg
   rockstar: true   
 - 
   id: 22
-  name: "Dr Anantsing"
+  name: "Dr. Anantsing"
   surname: "Rajput"
-  title: "Dr"
   thumbnailUrl: anantsingh.jpeg
   rockstar: true     
 - 
   id: 23
-  name: "Dr Shankar "
+  name: "Dr. Shankar "
   surname: "Khobragade"
-  title: "Dr"
   thumbnailUrl: kobragade.jpeg
   rockstar: true      
 - 
   id: 24
-  name: "Dr. S D "
+  name: "Dr. S. D. "
   surname: "Suryawanshi"
-  title: "Dr"
   thumbnailUrl: suryavanshi.jpeg
   rockstar: true  
 -       
   id: 25
-  name: "Dr Nitin"
+  name: "Dr. Nitin"
   surname: "Chandak"
-  title: "Dr"
   thumbnailUrl: nitinchandak.jpeg
   rockstar: true       
 

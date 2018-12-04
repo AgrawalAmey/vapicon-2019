@@ -4,7 +4,7 @@ title:  "Poster Presentation"
 date:   2018-12-02 09:00:00
 isStaticPost: true
 ---
-Vapicon 2019 will be held 12-13th of January in the city of Yavatmal. If you want to be part of this great event as a speaker you knocked at the good door.
+Vapicon 2019 will be held on 12th-13th of January in the city of Yavatmal. If you want to be part of this great event as a speaker you knocked at the good door.
 
 #### Presenters – who should speak at the Vapicon Conference?
 

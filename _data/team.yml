@@ -1,38 +1,38 @@
 - 
   id: 0 
-  name: "Dr  D.I."
+  name: "Dr.  D.I. "
   surname: "Agrawal"
   title: "Oraganizing Chairman"
-  thumbnailUrl: gh1.jpeg
+  thumbnailUrl: dipak.jpeg
   team: true
 
 - 
   id: 1
-  name: "Dr  Sandeep"
+  name: "Dr.  Sandeep"
   surname: "Dhawane"
   title: "Organizing Secretary"
-  thumbnailUrl: gh2.jpeg
+  thumbnailUrl: sandeep.jpeg
   team: true
   
 - 
   id: 2
-  name: "Dr  N.K."
+  name: "Dr.  N.K."
   surname: "Puranik"
   title: "API President"
-  thumbnailUrl: gh3.jpeg
+  thumbnailUrl: puranik.jpeg
   team: true
 
 - 
   id: 4 
-  name: "Dr  Shekhar"
+  name: "Dr.  Shekhar"
   surname: "Ghodeswar"
   title: "API Secretary"
-  thumbnailUrl: gh4.jpeg
+  thumbnailUrl: ghodeshwar.jpeg
   team: true
   
 - 
   id: 7
-  name: "Dr  B.D."
+  name: "Dr.  B.D."
   surname: "Wagh"
   title: "Patron"
   thumbnailUrl: ValentynShybanov.jpg
@@ -41,16 +41,16 @@
 -
 
   id: 8
-  name: "Dr  T.C."
+  name: "Dr.  T.C. "
   surname: "Rathod"
   title: "Patron"
-  thumbnailUrl: gh5.jpeg
+  thumbnailUrl: rathod.jpeg
   team: true
  
 -
 
   id: 9
-  name: "Dr  Manish."
+  name: "Dr.  Manish "
   surname: "Shrigiriwar(Dean)"
   title: "Patron"
   thumbnailUrl: dean.jpg
@@ -58,218 +58,218 @@
   
 -
   id: 10
-  name: "Dr  Harshvardhan"
+  name: "Dr.  Harshvardhan"
   surname: "Bora"
   title: "Chairman Scientific Committee"
-  thumbnailUrl: gh6.jpeg
+  thumbnailUrl: bora.jpeg
   team: true
  
-# -
-#   id: 11
-#   name: "Dr  Arun"
-#   surname: "Janbandhu"
-#   title: "Vice Chairman Scientific Committee"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   team: true
+-
+  id: 11
+  name: "Dr  Arun"
+  surname: "Janbandhu"
+  title: "Vice Chairman Scientific Committee"
+  
+  team: true
   
 
-# -
-#   id: 12
-#   name: "Dr  Manish"
-#   surname: "Pathak"
-#   title: "Joint Secretary"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   team: true
+-
+  id: 12
+  name: "Dr  Manish"
+  surname: "Pathak"
+  title: "Joint Secretary"
+ 
+  team: true
   
-# -
-#   id: 13
-#   name: "Dr  Durgesh"
-#   surname: "Mahajan"
-#   title: "Joint Secretary"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   team: true
+-
+  id: 13
+  name: "Dr  Durgesh"
+  surname: "Mahajan"
+  title: "Joint Secretary"
   
-# -
-#   id: 14
-#   name: "Dr  Ganesh"
-#   surname: "Jadhav"
-#   title: "Treasurer"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   team: true
+  team: true
   
-# -
-#   id: 15
-#   name: "Dr  Mahesh"
-#   surname: "Shah"
-#   title: "Organizing Vice Chairman"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   team: true
+-
+  id: 14
+  name: "Dr  Ganesh"
+  surname: "Jadhav"
+  title: "Treasurer"
   
-# -    
-#   id: 16
-#   name: "Dr  Baba"
-#   surname: "Yelke"
-#   title: "Organizing Vice Chairman"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   team: true
+  team: true
+  
+-
+  id: 15
+  name: "Dr  Mahesh"
+  surname: "Shah"
+  title: "Organizing Vice Chairman"
+  
+  team: true
+  
+-    
+  id: 16
+  name: "Dr  Baba"
+  surname: "Yelke"
+  title: "Organizing Vice Chairman"
+  
+  team: true
     
-# -    
-#   id: 17
-#   name: "Dr  Dilip"
-#   surname: "Kariya"
-#   title: "Organizing Vice Chairman"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   team: true
+-    
+  id: 17
+  name: "Dr  Dilip"
+  surname: "Kariya"
+  title: "Organizing Vice Chairman"
+  
+  team: true
  
-# -    
-#   id: 18
-#   name: "Dr  Vijay"
-#   surname: "Thakare"
-#   title: "Executive Committee"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   subTeam: true
+-    
+  id: 18
+  name: "Dr  Vijay"
+  surname: "Thakare"
+  title: "Executive Committee"
+  
+  subTeam: true
                  
-# -    
-#   id: 19
-#   name: "Dr  Viren"
-#   surname: "Papalkar"
-#   title: "Executive Committee"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   subTeam: true
+-    
+  id: 19
+  name: "Dr  Viren"
+  surname: "Papalkar"
+  title: "Executive Committee"
   
-# -    
-#   id: 20
-#   name: "Dr Akil"
-#   surname: "Memon"
-#   title: "Executive Committee"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   subTeam: true
+  subTeam: true
+  
+-    
+  id: 20
+  name: "Dr Akil"
+  surname: "Memon"
+  title: "Executive Committee"
+  
+  subTeam: true
  
-# -    
-#   id: 21
-#   name: "Dr  Ashish"
-#   surname: "Tejpal"
-#   title: "Executive Committee"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   subTeam: true
+-    
+  id: 21
+  name: "Dr  Ashish"
+  surname: "Tejpal"
+  title: "Executive Committee"
  
-# -    
-#   id: 22
-#   name: "Dr  Rajesh"
-#   surname: "Chavhan"
-#   title: "Executive Committee"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   subTeam: true
+  subTeam: true
+ 
+-    
+  id: 22
+  name: "Dr  Rajesh"
+  surname: "Chavhan"
+  title: "Executive Committee"
+  
+  subTeam: true
                
-# -    
-#   id: 23
-#   name: "Dr  Rajendra"
-#   surname: "Tayade"
-#   title: "Executive Committee"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   subTeam: true
+-    
+  id: 23
+  name: "Dr  Rajendra"
+  surname: "Tayade"
+  title: "Executive Committee"
   
-# -    
-#   id: 24
-#   name: "Dr  Chandrashekhar"
-#   surname: "Dhu"
-#   title: "Executive Committee"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   subTeam: true
-                   
-# -    
-#   id: 25
-#   name: "Dr  Ashish"
-#   surname: "Ujawane"
-#   title: "Executive Committee"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   subTeam: true
-                      
-# -    
-#   id: 26
-#   name: "Dr  Madhuri"
-#   surname: "Janbandhu"
-#   title: "Executive Committee"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   subTeam: true
+  subTeam: true
   
-# -    
-#   id: 27
-#   name: "Dr  Virendra"
-#   surname: "Aswar"
-#   title: "Executive Committee"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   subTeam: true
-  
-# -    
-#   id: 28
-#   name: "Dr  Ashutosh"
-#   surname: "Kawade"
-#   title: "Executive Committee"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   subTeam: true
-                                                                                      
-# -    
-#   id: 29
-#   name: "Dr  Aniket"
-#   surname: "Bhadke"
-#   title: "Executive Committee"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   subTeam: true
-  
-# -    
-#   id: 30
-#   name: "Dr  Avinash"
-#   surname: "Borikar"
-#   title: "Executive Committee"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   subTeam: true
-   
-# -    
-#   id: 31
-#   name: "Dr  Prakash"
-#   surname: "Rathod"
-#   title: "Executive Committee"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   subTeam: true
+-    
+  id: 24
+  name: "Dr  Chandrashekhar"
+  surname: "Dhu"
+  title: "Executive Committee"
  
-# -    
-#   id: 32
-#   name: "Dr  Swapnil"
-#   surname: "Deshmukh"
-#   title: "Executive Committee"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   subTeam: true
+  subTeam: true
+                   
+-    
+  id: 25
+  name: "Dr  Ashish"
+  surname: "Ujawane"
+  title: "Executive Committee"
   
-# -    
-#   id: 33
-#   name: "Dr  Niraj"
-#   surname: "Kumbhare"
-#   title: "Executive Committee"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   subTeam: true
+  subTeam: true
+                      
+-    
+  id: 26
+  name: "Dr  Madhuri"
+  surname: "Janbandhu"
+  title: "Executive Committee"
+  thumbnailUrl: ValentynShybanov.jpg
+  subTeam: true
   
-# -    
-#   id: 34
-#   name: "Dr  Sanjay"
-#   surname: "Agrawal"
-#   title: "Executive Committee"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   subTeam: true
+-    
+  id: 27
+  name: "Dr  Virendra"
+  surname: "Aswar"
+  title: "Executive Committee"
   
-# -    
-#   id: 35
-#   name: "Dr  Bharat"
-#   surname: "Rathod"
-#   title: "Executive Committee"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   subTeam: true
+  subTeam: true
   
-# -    
-#   id: 36
-#   name: "Dr  Sarika"
-#   surname: "Saklecha"
-#   title: "Executive Committee"
+-    
+  id: 28
+  name: "Dr  Ashutosh"
+  surname: "Kawade"
+  title: "Executive Committee"
   
-#   subTeam: true
-#   
+  subTeam: true
+                                                                                      
+-    
+  id: 29
+  name: "Dr  Aniket"
+  surname: "Bhadke"
+  title: "Executive Committee"
+ 
+  subTeam: true
+  
+-    
+  id: 30
+  name: "Dr  Avinash"
+  surname: "Borikar"
+  title: "Executive Committee"
+  
+  subTeam: true
+   
+-    
+  id: 31
+  name: "Dr  Prakash"
+  surname: "Rathod"
+  title: "Executive Committee"
+  
+  subTeam: true
+ 
+-    
+  id: 32
+  name: "Dr  Swapnil"
+  surname: "Deshmukh"
+  title: "Executive Committee"
+  
+  subTeam: true
+  
+-    
+  id: 33
+  name: "Dr  Niraj"
+  surname: "Kumbhare"
+  title: "Executive Committee"
+  
+  subTeam: true
+  
+-    
+  id: 34
+  name: "Dr  Sanjay"
+  surname: "Agrawal"
+  title: "Executive Committee"
+  
+  subTeam: true
+  
+-    
+  id: 35
+  name: "Dr  Bharat"
+  surname: "Rathod"
+  title: "Executive Committee"
+  
+  subTeam: true
+  
+-    
+  id: 36
+  name: "Dr  Sarika"
+  surname: "Saklecha"
+  title: "Executive Committee"
+  
+  subTeam: true
+  
