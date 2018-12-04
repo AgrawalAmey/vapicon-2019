@@ -1,60 +1,275 @@
 - 
-  id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  id: 0 
+  name: "Dr.  D.I. "
+  surname: "Agrawal"
+  title: "Oraganizing Chairman"
+  thumbnailUrl: dipak.jpeg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Dr.  Sandeep"
+  surname: "Dhawane"
+  title: "Organizing Secretary"
+  thumbnailUrl: sandeep.jpeg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+  
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Dr.  N.K."
+  surname: "Puranik"
+  title: "API President"
+  thumbnailUrl: puranik.jpeg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+
 - 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+  id: 4 
+  name: "Dr.  Shekhar"
+  surname: "Ghodeswar"
+  title: "API Secretary"
+  thumbnailUrl: ghodeshwar.jpeg
+  team: true
+  
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
+  name: "Dr.  B.D."
+  surname: "Wagh"
+  title: "Patron"
+  thumbnailUrl: ValentynShybanov.jpg
+  team: true
+  
+-
+
+  id: 8
+  name: "Dr.  T.C. "
+  surname: "Rathod"
+  title: "Patron"
+  thumbnailUrl: rathod.jpeg
+  team: true
+ 
+-
+
+  id: 9
+  name: "Dr.  Manish "
+  surname: "Shrigiriwar(Dean)"
+  title: "Patron"
+  thumbnailUrl: dean.jpg
+  team: true
+  
+-
+  id: 10
+  name: "Dr.  Harshvardhan"
+  surname: "Bora"
+  title: "Chairman Scientific Committee"
+  thumbnailUrl: bora.jpeg
+  team: true
+ 
+-
+  id: 11
+  name: "Dr  Arun"
+  surname: "Janbandhu"
+  title: "Vice Chairman Scientific Committee"
+  
+  team: true
+  
+
+-
+  id: 12
+  name: "Dr  Manish"
+  surname: "Pathak"
+  title: "Joint Secretary"
+ 
+  team: true
+  
+-
+  id: 13
+  name: "Dr  Durgesh"
+  surname: "Mahajan"
+  title: "Joint Secretary"
+  
+  team: true
+  
+-
+  id: 14
+  name: "Dr  Ganesh"
+  surname: "Jadhav"
+  title: "Treasurer"
+  
+  team: true
+  
+-
+  id: 15
+  name: "Dr  Mahesh"
+  surname: "Shah"
+  title: "Organizing Vice Chairman"
+  
+  team: true
+  
+-    
+  id: 16
+  name: "Dr  Baba"
+  surname: "Yelke"
+  title: "Organizing Vice Chairman"
+  
+  team: true
+    
+-    
+  id: 17
+  name: "Dr  Dilip"
+  surname: "Kariya"
+  title: "Organizing Vice Chairman"
+  
+  team: true
+ 
+-    
+  id: 18
+  name: "Dr  Vijay"
+  surname: "Thakare"
+  title: "Executive Committee"
+  
+  subTeam: true
+                 
+-    
+  id: 19
+  name: "Dr  Viren"
+  surname: "Papalkar"
+  title: "Executive Committee"
+  
+  subTeam: true
+  
+-    
+  id: 20
+  name: "Dr Akil"
+  surname: "Memon"
+  title: "Executive Committee"
+  
+  subTeam: true
+ 
+-    
+  id: 21
+  name: "Dr  Ashish"
+  surname: "Tejpal"
+  title: "Executive Committee"
+ 
+  subTeam: true
+ 
+-    
+  id: 22
+  name: "Dr  Rajesh"
+  surname: "Chavhan"
+  title: "Executive Committee"
+  
+  subTeam: true
+               
+-    
+  id: 23
+  name: "Dr  Rajendra"
+  surname: "Tayade"
+  title: "Executive Committee"
+  
+  subTeam: true
+  
+-    
+  id: 24
+  name: "Dr  Chandrashekhar"
+  surname: "Dhu"
+  title: "Executive Committee"
+ 
+  subTeam: true
+                   
+-    
+  id: 25
+  name: "Dr  Ashish"
+  surname: "Ujawane"
+  title: "Executive Committee"
+  
+  subTeam: true
+                      
+-    
+  id: 26
+  name: "Dr  Madhuri"
+  surname: "Janbandhu"
+  title: "Executive Committee"
   thumbnailUrl: ValentynShybanov.jpg
   subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  
+-    
+  id: 27
+  name: "Dr  Virendra"
+  surname: "Aswar"
+  title: "Executive Committee"
+  
+  subTeam: true
+  
+-    
+  id: 28
+  name: "Dr  Ashutosh"
+  surname: "Kawade"
+  title: "Executive Committee"
+  
+  subTeam: true
+                                                                                      
+-    
+  id: 29
+  name: "Dr  Aniket"
+  surname: "Bhadke"
+  title: "Executive Committee"
+ 
+  subTeam: true
+  
+-    
+  id: 30
+  name: "Dr  Avinash"
+  surname: "Borikar"
+  title: "Executive Committee"
+  
+  subTeam: true
+   
+-    
+  id: 31
+  name: "Dr  Prakash"
+  surname: "Rathod"
+  title: "Executive Committee"
+  
+  subTeam: true
+ 
+-    
+  id: 32
+  name: "Dr  Swapnil"
+  surname: "Deshmukh"
+  title: "Executive Committee"
+  
+  subTeam: true
+  
+-    
+  id: 33
+  name: "Dr  Niraj"
+  surname: "Kumbhare"
+  title: "Executive Committee"
+  
+  subTeam: true
+  
+-    
+  id: 34
+  name: "Dr  Sanjay"
+  surname: "Agrawal"
+  title: "Executive Committee"
+  
+  subTeam: true
+  
+-    
+  id: 35
+  name: "Dr  Bharat"
+  surname: "Rathod"
+  title: "Executive Committee"
+  
+  subTeam: true
+  
+-    
+  id: 36
+  name: "Dr  Sarika"
+  surname: "Saklecha"
+  title: "Executive Committee"
+  
+  subTeam: true
+  
