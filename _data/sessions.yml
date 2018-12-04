@@ -29,7 +29,7 @@
   language: en
 -
   id: 004
-  title: "Gut Microbiota and DM "
+  title: "Gut Microbiota and DM"
   subtype: presentation
   speakers: [4]
   language: en
@@ -71,19 +71,19 @@
   language: en  
 -
   id: 019
-  title: "Hypertension update "
+  title: "Hypertension update"
   subtype: presentation
   speakers: [13]
   language: en  
 -
   id: 028
-  title: "Management of secondary hypertension "
+  title: "Management of secondary hypertension"
   subtype: presentation
   speakers: [14]
   language: en    
 -
   id: 029
-  title: "Is antibitotic must for every patient with fever "
+  title: "Is antibitotic must for every patient with fever"
   subtype: presentation
   speakers: [7]
   language: en    
@@ -113,26 +113,26 @@
   language: en     
 -
   id: 058
-  title: "Fever with Leucopenia "
+  title: "Fever with Leucopenia"
   subtype: presentation
   speakers: [24]
   language: en       
 -
   id: 059
-  title: "Clinicopathological discussion(award of 5000 rupees for spot diagnosis) "
+  title: "Clinicopathological discussion(award of 5000 rupees for spot diagnosis)"
   subtype: presentation
   speakers: [24,23]
   language: en  
 -
   id: 068
-  title: "CSF evaluation in delirious patients "
+  title: "CSF evaluation in delirious patients"
   subtype: presentation
   speakers: [25]
   language: en     
 
 -
   id: 069
-  title: "Approach to Patient of Chronic cough "
+  title: "Approach to Patient of Chronic cough"
   subtype: presentation
   speakers: [19]
   language: en     
@@ -150,18 +150,18 @@
   language: en     
 -
   id: 080
-  title: "Pitfalls in calculation of GFR "
+  title: "Pitfalls in calculation of GFR"
   subtype: presentation
   speakers: [16]
   language: en           
 -
   id: 081
-  title: "Management of Anemia in ICU "
+  title: "Management of Anemia in ICU"
   subtype: presentation
   speakers: [8]
   language: en           
 -
   id: 082
-  title: "Yet to be finalized "
+  title: "Yet to be finalized"
   subtype: presentation
   language: en    

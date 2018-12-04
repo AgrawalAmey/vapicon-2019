@@ -11,17 +11,17 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "11th Annual Vapicon 2019 Yavatmal"
-email: "agrawalan@rknec.edu"
-description: "Annual Conference of The Asssociation Of Physicians Of India Vidarbha Chapter"
-baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+email: "vapicon2019@gmail.con"
+description: "Annual Conference of The Asssociation Of Physicians of India Vidarbha Chapter"
+baseurl: ""
+url: "https://vapicon.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "API Yavatmal and V.N.G.M.C  Yavatmal"
+organizerName: "API Yavatmal and VNGMC  Yavatmal"
 organizerAlternateName: "API Yavatmal"
 organizerDescription: "We share the advancements in medical science which will be highly useful for medical practitioners"
 organizerEmail: "vapicon2019@gmail.com"
@@ -49,7 +49,7 @@ navigationLinks:
 # Hero Block
 heroImage: "bk.jpg"
 heroTitle: "Vapicon <typeout> 2019"
-eventDate: "January 12th 13th, 2019"
+eventDate: "January 12th-13th, 2019"
 typeoutTextValues: '"", "Season", "Yavatmal"'
 typeoutFallback: "Season"
 heroButtons:
@@ -82,7 +82,7 @@ rockstarSpeakersButtonText: "See all speakers"
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Jawharlala Darda Shrotru Gruha"
-eventStreetAddress: "Shri.VASANTRAO NAIK MEDICAL COLLEGE"
+eventStreetAddress: "Shri. VASANTRAO NAIK MEDICAL COLLEGE"
 eventAddressLocality: "Waghapur Road, Palswadi Camp, Civil Lines"
 eventAddressLocalityRegion: "Yavatmal"
 eventPostalCode: "445001"
@@ -104,7 +104,7 @@ venueTitle: "Jawharlala Darda Shrotru Gruha"
 venueFeatures: ["Shri.VASANTRAO NAIK MEDICAL COLLEGE"]
 
 # Tweets Feed Block
-tweetsFeedImage: "yvt.JPG"
+tweetsFeedImage: "yvt.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "Vapicon"
 
