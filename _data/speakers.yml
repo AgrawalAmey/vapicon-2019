@@ -3,11 +3,9 @@
   name: "Dr. Vijay"
   surname: "Panikar"
   company: "Dr. Panikar's Speciality Care Centre"
-  
   bio: "Dr. Vijay Panikar is a Diabetologist in Bandra East, Mumbai Dr. Vijay Panikar practices at Dr. Panikar's Speciality Care Centre in Bandra East, Mumbai. "
   thumbnailUrl: drvijaypannikar.jpg
   rockstar: true
-  
 - 
   id: 4
   name: "Dr. Vijay"
@@ -16,8 +14,7 @@
   bio: "Dr. Vijay Negalur is a General Endocrinologist, Diabetologist, and Consultant Physician at Thane West and has an experience of 37 years in these fields. Dr. Vijay Negalur practices at Dr. Negalur's Diabetes & Thyroid Specialities Center in Owala, Ghodbunder Road, Thane. He completed MD - General Medicine from Grant Medical College, JJ Group of Hospitals Mumbai in 1980 and FICP from API, New Delhi in 2005.
 He is a member of European Association for the Study of Diabetes (EASD), American Diabetes Association (ADA), Association of Physicians of India and ADCP. Some of the services provided by the doctor are adult diabetes, thyroid problem, hypertension, insulin treatment and type 1 diabetes treatment etc."
   thumbnailUrl: vijay.jpg
-  rockstar: true
-  
+  rockstar: true 
 - 
   id: 5
   name: "Dr. Raj Kumar"
@@ -25,7 +22,7 @@ He is a member of European Association for the Study of Diabetes (EASD), America
   company: "Nayati Healthcare & Research Pvt., Ltd., CEO-Medical, Chairman - Pulmonology & Critical Care"
   bio: "Areas of Interest : End of life care, extracorporeal lung support, non-invasive ventilation, infection control.
 Other Information : Editor-in-Chief, Indian Journal of Critical Care Medicine, Visiting Honorary Consultant – Saket City Hospital, New Delhi"
-  thumbnailUrl: rajkumarmani.jpg
+  thumbnailUrl: rajkumarmani.jpeg
   rockstar: true
 - 
   id: 6
@@ -34,34 +31,105 @@ Other Information : Editor-in-Chief, Indian Journal of Critical Care Medicine, V
   company: "Harmony Health Club Clinic"
   bio: "Dr. Yashpal Gogate is a General Physician and Endocrinologist in Tidke Nagar, Nashik and has an experience of 13 years in these fields. Dr. Yashpal Gogate practices at Harmony Health Club Clinic in Tidke Nagar, Nashik. He completed MBBS from Gandhi Medical College, Bhopal in 2005,MD - Medicine from Dr V M Medical College,Solapur in 2009 and DM - Endocrinology from POSTGRADUATE INSTITUTE OF MEDICAL EDUCATION AND RESEARCH, CHANDIGARH in 2013.
 Some of the services provided by the doctor are: Congenital Disorders Evaluation / Treatment,Pituitary Diseases,Bronchial Asthma Treatment and Thyroid Disorder Treatment etc."
-  thumbnailUrl: yashpalgogte.jpg
+  thumbnailUrl: yashpalgogte.jpeg
   rockstar: true
-  
 - 
   id: 7
   name: "Dr. Piyush"
   surname: "Choudhary"
   company: "Polaris HealthCare"
-  bio: "Dr. Piyush Choudhary (Polaris HealthCare) in Pune has made a rather exceptional name in the city. According to many, the doctor classifies as one of the 'go-to' general physicians in the area. The stronghold this doctor has in the medical field has not only drawn in patients from in and around the vicinity but from across the city as well. The clinic is located in Wakad and can be found easily as it is right Wakad Dange Chowk Road. Conveyance is easily available and the place is well connected. The neighbourhood is filled with an considerable number of commercial spaces as well as residential ones. The doctor's determination stems from sheer passion to offer patients healthier living options. Knowing that with the ever increasing and changing lifestyle, there is a need for general physicians in the city and windows to better one's health. This physician possesses an impressive amount of knowledge and constantly keeps updated with advancements made in the field. "
+  bio: "EDUCATIONAL QUALIFICATION:
+1. M.B;B.S. : LTM Medical College, Sion, Mumbai
+2. DNB Internal Medicine ( GOLD MEDALIST): Bhagwan Mahaveer Jain Hospital,
+Bangalore
+3. Fellowship in Infectious Diseases: P. D. Hinduja National Hospital & Medical Research
+Centre, Mumbai
+4. Fellowship in HIV Medicine (HIVMAI): P. D. Hinduja National Hospital & Medical
+Research Centre, Mumbai
+5. International Short Course in Clinical Tropical Medicine & Travel Medicine
+Workshop, Christian Medical College, Vellore
+CURRENT ATTACHMENTS:
+Infectious Diseases Specialist at:
+ FeverCare, Centre for Infectious Diseases, Pimple Saudagar, Pune
+ Jehangir Hospital and Medical Centre, Pune
+ Inlaks & Budhrani Hospital, Pune
+ N. M. Wadia Institute of Cardiology, Pune
+ Oyster n Pearls Hospitals, Pune
+Consultant Physician & Infectious Diseases Specialist at:
+• Polaris Healthcare, Wakad, Pune
+Member, Ethics Committee, JCDC, Pune
+PRESENTATIONS & POSTERS:
+1. MYCOCON 2016: Invited as a Faculty at Mumbai.
+2. IDCC, 2016: As a Faculty for Lecture on Parasitology at Hinduja Hospital, Mumbai.
+3. CIDSCON 2016: Judge for Poster Presentations at Varanasi.
+4. HIV Congress 2016, Goa: As a Faculty Invited to present a case report of HIV with PML IRIS.
+5. CIDSCON 2015, New Delhi: Clinical Profile and Outcomes in HIV Associated Lymphoma
+Patients
+6. CIDSCON 2015, New Delhi: Moulded by Injury: Fungal Osteomyelitis following Trauma
+7. CIDSCON 2015, New Delhi: Case series of Mucormycosis
+8. Health talks: H1N1 influenza Infection (March 2015)
+9. MYCOCON 2014, International Conference of Fungal Infection Study Forum at Kolkata: A
+Case of Health Care-Associated Chest Wall Mucormycosis
+10. 11th Infectious Disease Certificate Course, 2014, Mumbai: Lecture on Ebola Haemorrhagic
+Fever: An Emerging Threat
+11. AAICON, 2014, Mysore: Interesting Cases of Hereditary Angioedema (1 st Prize for Poster
+Presentation)
+12. APICON 2013, Coimbatore, Tamil Nadu: Scientific Poster in Infectious Disease/Nephrology
+Category: Community Acquired UTI
+13. KAPICON 2012, State Level Conference of Karnataka Chapter of API: Aetiology and
+Antibiotic Resistance Pattern of Community Acquired UTIPUBLICATIONS & TEXTBOOK INPUTS:
+1. Antibiotics Chapter for API Textbook of Medicine 11th Edition (in press)
+2. Therapeutic Drug Monitoring of Antifungals: Newsletter on Invasive Fungal Infections
+3. Sterilization of Biomedical Instruments For HIV, HBV, HCV Infected Patients: For ICP
+Monograph
+4. CNS Infections In Critical Care: For Audio-Visual Teaching Module By ISCCM
+5.IFI Year In Review 2015: Newsletter of Fungal Infections Study Forum
+6. Pioneers in Infectious Diseases Series, JAPI: Concepts That Revolutionalized The Field of
+Infectious Diseases, August 2015
+7. A Slow Virus with A Fast Virus: CIDS Newsletter April 2015
+8. Virus And Viral Infections: 'Shatayushi': Diwali Issue 2015
+9. Changing Profile of Infective Endocarditis: A Case Series: Journal of API
+CLINICAL PROJECTS:
+1. The Study of Discordance Between Genotypic and Phenotypic Tests in Tuberculosis: During
+Infectious Diseases Fellowship
+2. Study of Patients on Second line ART: During HIVMAI Fellowship
+3. Changing Profile of Infective Endocarditis: A Case Series From 2007-2015
+4. A Study of Adenosine deaminase and C-reactive protein in Cerebrospinal fluid in Various
+types of Meningitis: a Profile of 50 cases: Dissertation For DNB General Medicine
+5. Project on ' COMPARISON OF TUBERCULOSIS DIAGNOSIS USING FLUORESCENT
+vs ZIEHL NIELSEN STAINING' under KISHORE VAIGYANIK PROTSAHAN YOJANA(
+KVPY) of Indian Institute of Sciences, Bangalore: during 2nd Yr M.B;B.S.
+L.T.M. Medical College & General Hospital, Sion, Mumbai
+AREAS OF INTEREST:
+Antimicrobial Stewardship
+Tropical Diseases
+Drug resistant Tuberculosis
+HIV Medicine
+Prosthetic joint and Implant related infections
+Infections in Immunocompromised hosts
+Travel Medicine & Adult Immunization
+Infection control activities
+Post graduate teaching
+Clinical Research in field of Infectious Diseases"
   thumbnailUrl: piyush.jpg
   rockstar: true
 - 
   id: 8
   name: "Dr. Avinash"
   surname: "Pofali"
-  thumbnailUrl: avinash.jpg
+  thumbnailUrl: avinash.jpeg
   rockstar: true
 - 
   id: 9
   name: "Dr. Mahesh"
   surname: "Fulwani"
-  thumbnailUrl: drmahesh.jpg
+  thumbnailUrl: drmahesh.jpeg
   rockstar: true
 - 
   id: 10
   name: "Dr. G. P. "
   surname: "Ratnaparkhi"
-  thumbnailUrl: gp.jpg
+  thumbnailUrl: gp.jpeg
   rockstar: true
 - 
   id: 11
@@ -73,7 +141,7 @@ Some of the services provided by the doctor are: Congenital Disorders Evaluation
   id: 12
   name: "Dr. Nitin"
   surname: "Shinde"
-  thumbnailUrl: nitin.jpg
+  thumbnailUrl: nitin.jpeg
   rockstar: true  
 - 
   id: 13
@@ -85,7 +153,7 @@ Some of the services provided by the doctor are: Congenital Disorders Evaluation
   id: 14
   name: "Dr. Pankaj"
   surname: "Harkut"
-  thumbnailUrl: pankaj.jpg
+  thumbnailUrl: pankaj.jpeg
   rockstar: true   
 - 
   id: 15
@@ -97,19 +165,19 @@ Some of the services provided by the doctor are: Congenital Disorders Evaluation
   id: 16
   name: "Dr. Prakash"
   surname: "Khetan"
-  thumbnailUrl: prakash.jpeg
+  thumbnailUrl: pr.jpeg
   rockstar: true    
 - 
   id: 17
   name: "Dr. Pramod "
   surname: "Gandhi"
-  thumbnailUrl: pramod.png
+  thumbnailUrl: pramod.jpeg
   rockstar: true  
 - 
   id: 18
   name: "Dr. Rajan "
   surname: "Barokar"
-  thumbnailUrl: rajan.jpg
+  thumbnailUrl: rajan.jpeg
   rockstar: true     
 - 
   id: 19
@@ -126,8 +194,8 @@ Some of the services provided by the doctor are: Congenital Disorders Evaluation
 - 
   id: 21
   name: "Dr. Rushikesh"
-  surname: " Umalkar"
-  thumbnailUrl: rushikesh.jpeg
+  surname: "Umalkar"
+  thumbnailUrl: ru.jpeg
   rockstar: true   
 - 
   id: 22
