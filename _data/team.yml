@@ -5,15 +5,13 @@
   title: "Oraganizing Chairman"
   thumbnailUrl: dipak.jpeg
   team: true
-
 - 
   id: 1
   name: "Dr.  Sandeep"
   surname: "Dhawane"
   title: "Organizing Secretary"
   thumbnailUrl: sandeep.jpeg
-  team: true
-  
+  team: true 
 - 
   id: 2
   name: "Dr.  N.K."
@@ -21,7 +19,6 @@
   title: "API President"
   thumbnailUrl: puranik.jpeg
   team: true
-
 - 
   id: 4 
   name: "Dr.  Shekhar"
@@ -29,15 +26,13 @@
   title: "API Secretary"
   thumbnailUrl: ghodeshwar.jpeg
   team: true
-  
 - 
   id: 7
   name: "Dr.  B.D."
   surname: "Wagh"
   title: "Patron"
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: wagh.jpg
   team: true
-  
 -
 
   id: 8
@@ -46,7 +41,6 @@
   title: "Patron"
   thumbnailUrl: rathod.jpeg
   team: true
- 
 -
 
   id: 9
@@ -54,8 +48,7 @@
   surname: "Shrigiriwar(Dean)"
   title: "Patron"
   thumbnailUrl: dean.jpg
-  team: true
-  
+  team: true 
 -
   id: 10
   name: "Dr.  Harshvardhan"
@@ -63,206 +56,92 @@
   title: "Chairman Scientific Committee"
   thumbnailUrl: bora.jpeg
   team: true
- 
 -
   id: 11
-  name: "Dr  Arun"
+  name: "Dr.  Arun"
   surname: "Janbandhu"
   title: "Vice Chairman Scientific Committee"
-  
+  thumbnailUrl: bandu.jpg
   team: true
-  
-
--
-  id: 12
-  name: "Dr  Manish"
-  surname: "Pathak"
-  title: "Joint Secretary"
- 
-  team: true
-  
+# -
+#   id: 12
+#   name: "Dr  Manish"
+#   surname: "Pathak"
+#   title: "Joint Secretary"
+#   thumbnailUrl: male.png
+#   team: true
 -
   id: 13
-  name: "Dr  Durgesh"
+  name: "Dr.  Durgesh"
   surname: "Mahajan"
   title: "Joint Secretary"
-  
+  thumbnailUrl: mahajan.jpg
   team: true
-  
 -
   id: 14
-  name: "Dr  Ganesh"
+  name: "Dr.  Ganesh"
   surname: "Jadhav"
   title: "Treasurer"
-  
-  team: true
-  
+  thumbnailUrl: ganesh.jpeg
+  team: true 
 -
   id: 15
-  name: "Dr  Mahesh"
+  name: "Dr.  Mahesh"
   surname: "Shah"
   title: "Organizing Vice Chairman"
-  
-  team: true
-  
+  thumbnailUrl: mahesh.jpeg
+  team: true 
 -    
   id: 16
-  name: "Dr  Baba"
+  name: "Dr.  Baba"
   surname: "Yelke"
   title: "Organizing Vice Chairman"
-  
-  team: true
-    
+  thumbnailUrl: yelke.jpeg
+  team: true 
 -    
   id: 17
-  name: "Dr  Dilip"
+  name: "Dr.  Dilip"
   surname: "Kariya"
   title: "Organizing Vice Chairman"
-  
+  thumbnailUrl: kariya.jpeg
   team: true
- 
--    
-  id: 18
-  name: "Dr  Vijay"
-  surname: "Thakare"
-  title: "Executive Committee"
-  
-  subTeam: true
-                 
--    
-  id: 19
-  name: "Dr  Viren"
-  surname: "Papalkar"
-  title: "Executive Committee"
-  
-  subTeam: true
-  
--    
-  id: 20
-  name: "Dr Akil"
-  surname: "Memon"
-  title: "Executive Committee"
-  
-  subTeam: true
- 
--    
-  id: 21
-  name: "Dr  Ashish"
-  surname: "Tejpal"
-  title: "Executive Committee"
- 
-  subTeam: true
- 
+
 -    
   id: 22
-  name: "Dr  Rajesh"
+  name: "Dr. Rajesh"
   surname: "Chavhan"
   title: "Executive Committee"
-  
-  subTeam: true
-               
--    
-  id: 23
-  name: "Dr  Rajendra"
-  surname: "Tayade"
-  title: "Executive Committee"
-  
-  subTeam: true
-  
+  thumbnailUrl: chavhan.jpeg
+  subTeam: true             
+
 -    
   id: 24
-  name: "Dr  Chandrashekhar"
-  surname: "Dhu"
+  name: "Dr.  Chandrashekhar"
+  surname: "Dhurve"
   title: "Executive Committee"
- 
-  subTeam: true
-                   
+  thumbnailUrl: durve.jpg
+  subTeam: true                 
 -    
   id: 25
-  name: "Dr  Ashish"
+  name: "Dr. Ashish"
   surname: "Ujawane"
   title: "Executive Committee"
-  
-  subTeam: true
-                      
+  thumbnailUrl: ujawne.jpeg
+  subTeam: true                      
 -    
   id: 26
-  name: "Dr  Madhuri"
+  name: "Dr. Madhuri"
   surname: "Janbandhu"
   title: "Executive Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  
--    
-  id: 27
-  name: "Dr  Virendra"
-  surname: "Aswar"
-  title: "Executive Committee"
-  
-  subTeam: true
-  
--    
-  id: 28
-  name: "Dr  Ashutosh"
-  surname: "Kawade"
-  title: "Executive Committee"
-  
-  subTeam: true
-                                                                                      
--    
-  id: 29
-  name: "Dr  Aniket"
-  surname: "Bhadke"
-  title: "Executive Committee"
- 
-  subTeam: true
-  
--    
-  id: 30
-  name: "Dr  Avinash"
-  surname: "Borikar"
-  title: "Executive Committee"
-  
-  subTeam: true
-   
--    
-  id: 31
-  name: "Dr  Prakash"
-  surname: "Rathod"
-  title: "Executive Committee"
-  
-  subTeam: true
- 
--    
-  id: 32
-  name: "Dr  Swapnil"
-  surname: "Deshmukh"
-  title: "Executive Committee"
-  
-  subTeam: true
-  
--    
-  id: 33
-  name: "Dr  Niraj"
-  surname: "Kumbhare"
-  title: "Executive Committee"
-  
-  subTeam: true
-  
--    
-  id: 34
-  name: "Dr  Sanjay"
-  surname: "Agrawal"
-  title: "Executive Committee"
-  
-  subTeam: true
-  
+  thumbnailUrl: jan.jpg
+  subTeam: true 
+
 -    
   id: 35
-  name: "Dr  Bharat"
+  name: "Dr. Bharat"
   surname: "Rathod"
   title: "Executive Committee"
-  
+  thumbnailUrl: rathod2.jpeg
   subTeam: true
   
 -    
@@ -270,6 +149,228 @@
   name: "Dr  Sarika"
   surname: "Saklecha"
   title: "Executive Committee"
-  
+  thumbnailUrl: female.png
   subTeam: true
   
+-    
+  id: 18
+  name: "Dr  Vijay"
+  surname: "Thakare"
+  title: "Executive Committee"
+  thumbnailUrl: male.png
+  subTeam: true                 
+-    
+  id: 19
+  name: "Dr  Viren"
+  surname: "Papalkar"
+  title: "Executive Committee"
+  thumbnailUrl: male.png
+  subTeam: true 
+-    
+  id: 20
+  name: "Dr Akil"
+  surname: "Memon"
+  title: "Executive Committee"
+  thumbnailUrl: male.png
+  subTeam: true
+-    
+  id: 21
+  name: "Dr  Ashish"
+  surname: "Tejpal"
+  title: "Executive Committee"
+  thumbnailUrl: male.png
+  subTeam: true 
+-    
+  id: 23
+  name: "Dr  Rajendra"
+  surname: "Tayade"
+  title: "Executive Committee"
+  thumbnailUrl: male.png
+  subTeam: true 
+-    
+  id: 27
+  name: "Dr  Virendra"
+  surname: "Aswar"
+  title: "Executive Committee"
+  thumbnailUrl: male.png
+  subTeam: true
+-    
+  id: 28
+  name: "Dr  Ashutosh"
+  surname: "Kawade"
+  title: "Executive Committee"
+  thumbnailUrl: male.png
+  subTeam: true                                                                                    
+-    
+  id: 29
+  name: "Dr  Aniket"
+  surname: "Bhadke"
+  title: "Executive Committee"
+  thumbnailUrl: male.png
+  subTeam: true  
+-    
+  id: 30
+  name: "Dr  Avinash"
+  surname: "Borikar"
+  title: "Executive Committee"
+  thumbnailUrl: male.png
+  subTeam: true
+   
+-    
+  id: 31
+  name: "Dr  Prakash"
+  surname: "Rathod"
+  title: "Executive Committee"
+  thumbnailUrl: male.png
+  subTeam: true
+ 
+-    
+  id: 32
+  name: "Dr  Swapnil"
+  surname: "Deshmukh"
+  title: "Executive Committee"
+  thumbnailUrl: male.png
+  subTeam: true
+  
+-    
+  id: 33
+  name: "Dr  Niraj"
+  surname: "Kumbhare"
+  title: "Executive Committee"
+  thumbnailUrl: male.png
+  subTeam: true
+  
+-    
+  id: 34
+  name: "Dr  Sanjay"
+  surname: "Agrawal"
+  title: "Executive Committee"
+  thumbnailUrl: male.png
+  subTeam: true
+  
+-    
+  id: 37
+  name: "Dr.L.L."
+  surname: "BAJAJ"
+  title: "District Co-ordinator(Gondia)"
+  thumbnailUrl: male.png
+  subTeam: true
+-    
+  id: 38
+  name: "Dr. VIVEK "
+  surname: "DESHPANDE"
+  title: "District Co-ordinator(Akola)"
+  thumbnailUrl: male.png
+  subTeam: true  
+-    
+  id: 39
+  name: "Dr. RAJKUMAR "
+  surname: "CHAVHAN"
+  title: "District Co-ordinator(Akola)"
+  thumbnailUrl: male.png
+  subTeam: true   
+-    
+  id: 40
+  name: "Dr. ADVAIT "
+  surname: "MAHALLE"
+  title: "District Co-ordinator(Amravati)"
+  thumbnailUrl: male.png
+  subTeam: true     
+-    
+  id: 41
+  name: "Dr. SHRIGOPAL "
+  surname: "RATHI"
+  title: "District Co-ordinator(Amravati)"
+  thumbnailUrl: male.png
+  subTeam: true  
+-    
+  id: 42
+  name: "Dr. SIDHARTH "
+  surname: "DEOLE"
+  title: "District Co-ordinator(Washim)"
+  thumbnailUrl: male.png
+  subTeam: true  
+-    
+  id: 43
+  name: "Dr. SHARDUL "
+  surname: "DONGAVKAR"
+  title: "District Co-ordinator(Washim)"
+  thumbnailUrl: male.png
+  subTeam: true  
+-    
+  id: 44
+  name: "Dr. NARENDRA"
+  surname: " KOLTE"
+  title: "District Co-ordinator(Chandrapur)"
+  thumbnailUrl: male.png
+  subTeam: true 
+-    
+  id: 45
+  name: "Dr. RAJU "
+  surname: "SAINANI"
+  title: "District Co-ordinator(Chandrapur)"
+  thumbnailUrl: male.png
+  subTeam: true  
+-    
+  id: 46
+  name: "Dr. ANAND"
+  surname: "KATE"
+  title: "District Co-ordinator(Nagpur)"
+  thumbnailUrl: male.png
+  subTeam: true    
+-    
+  id: 47
+  name: "Dr. SHANKAR "
+  surname: "KHOBRAGADE"
+  title: "District Co-ordinator(Nagpur)"
+  thumbnailUrl: male.png
+  subTeam: true      
+-    
+  id: 48
+  name: "Dr. P. K."
+  surname: "DESHPANDE"
+  title: "District Co-ordinator(Nagpur)"
+  thumbnailUrl: male.png
+  subTeam: true      
+-    
+  id: 49
+  name: "Dr. SURESH"
+  surname: "CHHAJED"
+  title: "District Co-ordinator(Buldhana)"
+  thumbnailUrl: male.png
+  subTeam: true  
+-    
+  id: 50
+  name: "Dr. ANIL "
+  surname: "GABHANE"
+  title: "District Co-ordinator(Buldhana)"
+  thumbnailUrl: male.png
+  subTeam: true      
+-    
+  id: 51
+  name: "Dr. S. N.  "
+  surname: "MAHAJAN"
+  title: "District Co-ordinator(Bhandara)"
+  thumbnailUrl: male.png
+  subTeam: true      
+-    
+  id: 52
+  name: "Dr. RAJESH "
+  surname: "SARODE "
+  title: "District Co-ordinator(Wardha)"
+  thumbnailUrl: male.png
+  subTeam: true      
+-    
+  id: 53
+  name: "Dr. ANIL  "
+  surname: "WANJARI "
+  title: "District Co-ordinator(Wardha)"
+  thumbnailUrl: male.png
+  subTeam: true   
+
+
+
+
+
+
+   
