@@ -16,9 +16,9 @@ description: "Annual Conference of The Asssociation Of Physicians of India Vidar
 baseurl: ""
 url: "https://vapicon.org"
 permalink: "/news/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: "UA-129016127-1"
+googleAnalyticsSiteUrl: "vapicon.org"
+siteVerification: "AIzaSyDWkde1vX5nn5w07ytfb97Wq4CvPZy62Sg"
 
 # Organizer Info
 organizerName: "API Yavatmal and VNGMC  Yavatmal"
@@ -88,9 +88,8 @@ eventAddressCountry: "India"
 eventStartTime: "2019-01-12T09:30"
 eventDoorTime: "09:00"
 eventEndTime: "2019-01-13T20:00"
-eventPlaceCoordinates: "20.3961 , 78.1193"
-mapCenterCoordinates: "20.3961, 78.1193"
-mapMobileCenterCoordinates: "20.3961, 78.1193"
+eventPlaceCoordinateLat: 20.3961
+eventPlaceCoordinateLng: 78.1193
 
 # Venue Block
 venueBlockTitle: "Venue"
