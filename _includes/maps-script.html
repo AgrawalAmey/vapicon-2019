@@ -1,0 +1,22 @@
+<script>
+    function initMap() {
+      var loc = {
+          lat: {{ site.eventPlaceCoordinateLat }},
+          lng: {{ site.eventPlaceCoordinateLng }}
+      };
+      var map = new google.maps.Map(
+          document.getElementById('canvas-map'), {
+              zoom: 15, 
+              center: loc,
+              disableDefaultUI: true,
+              zoomControl: true,
+              zoomControlOptions: {
+                position: google.maps.ControlPosition.RIGHT_TOP
+              }
+          });
+      var marker = new google.maps.Marker({position: loc, map: map});
+    }
+</script>
+<script async defer
+src="https://maps.googleapis.com/maps/api/js?key={{ site.siteVerification }}&callback=initMap">
+</script>
