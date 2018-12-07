@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Poster Presentation"
+title:  "Poster and Paper Presentation"
 date:   2018-12-02 09:00:00
 isStaticPost: true
 ---

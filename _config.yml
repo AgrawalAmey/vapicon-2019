@@ -43,7 +43,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Poster Presentation"}
+ - {permalink: "/hackathon/", text: "Poster and Paper Presentation"}
 
 
 # Hero Block
@@ -110,8 +110,8 @@ organizersTitle: "Organizers"
 partnersTitle: "Partners"
 
 # Tickets Block
-ticketsTitle: "Tickets"
-ticketsInfo: "Tickets grant access to all conference sections, breakfast, lunch and banquet. Accommodation is included in the ticket price."
+ticketsTitle: "Registration Fees"
+ticketsInfo: "Registration Fees grant access to all conference sections, breakfast, lunch and banquet.<br>Student have to bring letter from Head of Deapartment of concerned institution.<br>For complimentary accomodation please Call:Dr. Sandeep Dhawane - 9763421633 OR Mr. Raju Andulkar - 9822717917"
 ticketsOffers:
  -
   name: "Early Bird"
@@ -200,7 +200,7 @@ hackathonRows:
  - {title: "1000 Rupees", image: "third.png", details: "Third Place"}
 
 # Hackathon Judges Block
-judgesImage: "judges.jpg"
+judgesImage: "judge.jpg"
 judgesTitle: "Judges"
 
 # Hackathon Prizes Block

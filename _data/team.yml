@@ -144,229 +144,229 @@
   thumbnailUrl: rathod2.jpeg
   subTeam: true
   
--    
-  id: 36
-  name: "Dr  Sarika"
-  surname: "Saklecha"
-  title: "Executive Committee"
-  thumbnailUrl: female.png
-  subTeam: true
+# -    
+#   id: 36
+#   name: "Dr  Sarika"
+#   surname: "Saklecha"
+#   title: "Executive Committee"
+#   thumbnailUrl: female.png
+#   subTeam: true
   
--    
-  id: 18
-  name: "Dr  Vijay"
-  surname: "Thakare"
-  title: "Executive Committee"
-  thumbnailUrl: male.png
-  subTeam: true                 
--    
-  id: 19
-  name: "Dr  Viren"
-  surname: "Papalkar"
-  title: "Executive Committee"
-  thumbnailUrl: male.png
-  subTeam: true 
--    
-  id: 20
-  name: "Dr Akil"
-  surname: "Memon"
-  title: "Executive Committee"
-  thumbnailUrl: male.png
-  subTeam: true
--    
-  id: 21
-  name: "Dr  Ashish"
-  surname: "Tejpal"
-  title: "Executive Committee"
-  thumbnailUrl: male.png
-  subTeam: true 
--    
-  id: 23
-  name: "Dr  Rajendra"
-  surname: "Tayade"
-  title: "Executive Committee"
-  thumbnailUrl: male.png
-  subTeam: true 
--    
-  id: 27
-  name: "Dr  Virendra"
-  surname: "Aswar"
-  title: "Executive Committee"
-  thumbnailUrl: male.png
-  subTeam: true
--    
-  id: 28
-  name: "Dr  Ashutosh"
-  surname: "Kawade"
-  title: "Executive Committee"
-  thumbnailUrl: male.png
-  subTeam: true                                                                                    
--    
-  id: 29
-  name: "Dr  Aniket"
-  surname: "Bhadke"
-  title: "Executive Committee"
-  thumbnailUrl: male.png
-  subTeam: true  
--    
-  id: 30
-  name: "Dr  Avinash"
-  surname: "Borikar"
-  title: "Executive Committee"
-  thumbnailUrl: male.png
-  subTeam: true
+# -    
+#   id: 18
+#   name: "Dr  Vijay"
+#   surname: "Thakare"
+#   title: "Executive Committee"
+#   thumbnailUrl: male.png
+#   subTeam: true                 
+# -    
+#   id: 19
+#   name: "Dr  Viren"
+#   surname: "Papalkar"
+#   title: "Executive Committee"
+#   thumbnailUrl: male.png
+#   subTeam: true 
+# -    
+#   id: 20
+#   name: "Dr Akil"
+#   surname: "Memon"
+#   title: "Executive Committee"
+#   thumbnailUrl: male.png
+#   subTeam: true
+# -    
+#   id: 21
+#   name: "Dr  Ashish"
+#   surname: "Tejpal"
+#   title: "Executive Committee"
+#   thumbnailUrl: male.png
+#   subTeam: true 
+# -    
+#   id: 23
+#   name: "Dr  Rajendra"
+#   surname: "Tayade"
+#   title: "Executive Committee"
+#   thumbnailUrl: male.png
+#   subTeam: true 
+# -    
+#   id: 27
+#   name: "Dr  Virendra"
+#   surname: "Aswar"
+#   title: "Executive Committee"
+#   thumbnailUrl: male.png
+#   subTeam: true
+# -    
+#   id: 28
+#   name: "Dr  Ashutosh"
+#   surname: "Kawade"
+#   title: "Executive Committee"
+#   thumbnailUrl: male.png
+#   subTeam: true                                                                                    
+# -    
+#   id: 29
+#   name: "Dr  Aniket"
+#   surname: "Bhadke"
+#   title: "Executive Committee"
+#   thumbnailUrl: male.png
+#   subTeam: true  
+# -    
+#   id: 30
+#   name: "Dr  Avinash"
+#   surname: "Borikar"
+#   title: "Executive Committee"
+#   thumbnailUrl: male.png
+#   subTeam: true
    
--    
-  id: 31
-  name: "Dr  Prakash"
-  surname: "Rathod"
-  title: "Executive Committee"
-  thumbnailUrl: male.png
-  subTeam: true
+# -    
+#   id: 31
+#   name: "Dr  Prakash"
+#   surname: "Rathod"
+#   title: "Executive Committee"
+#   thumbnailUrl: male.png
+#   subTeam: true
  
--    
-  id: 32
-  name: "Dr  Swapnil"
-  surname: "Deshmukh"
-  title: "Executive Committee"
-  thumbnailUrl: male.png
-  subTeam: true
+# -    
+#   id: 32
+#   name: "Dr  Swapnil"
+#   surname: "Deshmukh"
+#   title: "Executive Committee"
+#   thumbnailUrl: male.png
+#   subTeam: true
   
--    
-  id: 33
-  name: "Dr  Niraj"
-  surname: "Kumbhare"
-  title: "Executive Committee"
-  thumbnailUrl: male.png
-  subTeam: true
+# -    
+#   id: 33
+#   name: "Dr  Niraj"
+#   surname: "Kumbhare"
+#   title: "Executive Committee"
+#   thumbnailUrl: male.png
+#   subTeam: true
   
--    
-  id: 34
-  name: "Dr  Sanjay"
-  surname: "Agrawal"
-  title: "Executive Committee"
-  thumbnailUrl: male.png
-  subTeam: true
+# -    
+#   id: 34
+#   name: "Dr  Sanjay"
+#   surname: "Agrawal"
+#   title: "Executive Committee"
+#   thumbnailUrl: male.png
+#   subTeam: true
   
--    
-  id: 37
-  name: "Dr.L.L."
-  surname: "BAJAJ"
-  title: "District Co-ordinator(Gondia)"
-  thumbnailUrl: male.png
-  subTeam: true
--    
-  id: 38
-  name: "Dr. VIVEK "
-  surname: "DESHPANDE"
-  title: "District Co-ordinator(Akola)"
-  thumbnailUrl: male.png
-  subTeam: true  
--    
-  id: 39
-  name: "Dr. RAJKUMAR "
-  surname: "CHAVHAN"
-  title: "District Co-ordinator(Akola)"
-  thumbnailUrl: male.png
-  subTeam: true   
--    
-  id: 40
-  name: "Dr. ADVAIT "
-  surname: "MAHALLE"
-  title: "District Co-ordinator(Amravati)"
-  thumbnailUrl: male.png
-  subTeam: true     
--    
-  id: 41
-  name: "Dr. SHRIGOPAL "
-  surname: "RATHI"
-  title: "District Co-ordinator(Amravati)"
-  thumbnailUrl: male.png
-  subTeam: true  
--    
-  id: 42
-  name: "Dr. SIDHARTH "
-  surname: "DEOLE"
-  title: "District Co-ordinator(Washim)"
-  thumbnailUrl: male.png
-  subTeam: true  
--    
-  id: 43
-  name: "Dr. SHARDUL "
-  surname: "DONGAVKAR"
-  title: "District Co-ordinator(Washim)"
-  thumbnailUrl: male.png
-  subTeam: true  
--    
-  id: 44
-  name: "Dr. NARENDRA"
-  surname: " KOLTE"
-  title: "District Co-ordinator(Chandrapur)"
-  thumbnailUrl: male.png
-  subTeam: true 
--    
-  id: 45
-  name: "Dr. RAJU "
-  surname: "SAINANI"
-  title: "District Co-ordinator(Chandrapur)"
-  thumbnailUrl: male.png
-  subTeam: true  
--    
-  id: 46
-  name: "Dr. ANAND"
-  surname: "KATE"
-  title: "District Co-ordinator(Nagpur)"
-  thumbnailUrl: male.png
-  subTeam: true    
--    
-  id: 47
-  name: "Dr. SHANKAR "
-  surname: "KHOBRAGADE"
-  title: "District Co-ordinator(Nagpur)"
-  thumbnailUrl: male.png
-  subTeam: true      
--    
-  id: 48
-  name: "Dr. P. K."
-  surname: "DESHPANDE"
-  title: "District Co-ordinator(Nagpur)"
-  thumbnailUrl: male.png
-  subTeam: true      
--    
-  id: 49
-  name: "Dr. SURESH"
-  surname: "CHHAJED"
-  title: "District Co-ordinator(Buldhana)"
-  thumbnailUrl: male.png
-  subTeam: true  
--    
-  id: 50
-  name: "Dr. ANIL "
-  surname: "GABHANE"
-  title: "District Co-ordinator(Buldhana)"
-  thumbnailUrl: male.png
-  subTeam: true      
--    
-  id: 51
-  name: "Dr. S. N.  "
-  surname: "MAHAJAN"
-  title: "District Co-ordinator(Bhandara)"
-  thumbnailUrl: male.png
-  subTeam: true      
--    
-  id: 52
-  name: "Dr. RAJESH "
-  surname: "SARODE "
-  title: "District Co-ordinator(Wardha)"
-  thumbnailUrl: male.png
-  subTeam: true      
--    
-  id: 53
-  name: "Dr. ANIL  "
-  surname: "WANJARI "
-  title: "District Co-ordinator(Wardha)"
-  thumbnailUrl: male.png
-  subTeam: true   
+# -    
+#   id: 37
+#   name: "Dr.L.L."
+#   surname: "BAJAJ"
+#   title: "District Co-ordinator(Gondia)"
+#   thumbnailUrl: male.png
+#   subTeam: true
+# -    
+#   id: 38
+#   name: "Dr. VIVEK "
+#   surname: "DESHPANDE"
+#   title: "District Co-ordinator(Akola)"
+#   thumbnailUrl: male.png
+#   subTeam: true  
+# -    
+#   id: 39
+#   name: "Dr. RAJKUMAR "
+#   surname: "CHAVHAN"
+#   title: "District Co-ordinator(Akola)"
+#   thumbnailUrl: male.png
+#   subTeam: true   
+# -    
+#   id: 40
+#   name: "Dr. ADVAIT "
+#   surname: "MAHALLE"
+#   title: "District Co-ordinator(Amravati)"
+#   thumbnailUrl: male.png
+#   subTeam: true     
+# -    
+#   id: 41
+#   name: "Dr. SHRIGOPAL "
+#   surname: "RATHI"
+#   title: "District Co-ordinator(Amravati)"
+#   thumbnailUrl: male.png
+#   subTeam: true  
+# -    
+#   id: 42
+#   name: "Dr. SIDHARTH "
+#   surname: "DEOLE"
+#   title: "District Co-ordinator(Washim)"
+#   thumbnailUrl: male.png
+#   subTeam: true  
+# -    
+#   id: 43
+#   name: "Dr. SHARDUL "
+#   surname: "DONGAVKAR"
+#   title: "District Co-ordinator(Washim)"
+#   thumbnailUrl: male.png
+#   subTeam: true  
+# -    
+#   id: 44
+#   name: "Dr. NARENDRA"
+#   surname: " KOLTE"
+#   title: "District Co-ordinator(Chandrapur)"
+#   thumbnailUrl: male.png
+#   subTeam: true 
+# -    
+#   id: 45
+#   name: "Dr. RAJU "
+#   surname: "SAINANI"
+#   title: "District Co-ordinator(Chandrapur)"
+#   thumbnailUrl: male.png
+#   subTeam: true  
+# -    
+#   id: 46
+#   name: "Dr. ANAND"
+#   surname: "KATE"
+#   title: "District Co-ordinator(Nagpur)"
+#   thumbnailUrl: male.png
+#   subTeam: true    
+# -    
+#   id: 47
+#   name: "Dr. SHANKAR "
+#   surname: "KHOBRAGADE"
+#   title: "District Co-ordinator(Nagpur)"
+#   thumbnailUrl: male.png
+#   subTeam: true      
+# -    
+#   id: 48
+#   name: "Dr. P. K."
+#   surname: "DESHPANDE"
+#   title: "District Co-ordinator(Nagpur)"
+#   thumbnailUrl: male.png
+#   subTeam: true      
+# -    
+#   id: 49
+#   name: "Dr. SURESH"
+#   surname: "CHHAJED"
+#   title: "District Co-ordinator(Buldhana)"
+#   thumbnailUrl: male.png
+#   subTeam: true  
+# -    
+#   id: 50
+#   name: "Dr. ANIL "
+#   surname: "GABHANE"
+#   title: "District Co-ordinator(Buldhana)"
+#   thumbnailUrl: male.png
+#   subTeam: true      
+# -    
+#   id: 51
+#   name: "Dr. S. N.  "
+#   surname: "MAHAJAN"
+#   title: "District Co-ordinator(Bhandara)"
+#   thumbnailUrl: male.png
+#   subTeam: true      
+# -    
+#   id: 52
+#   name: "Dr. RAJESH "
+#   surname: "SARODE "
+#   title: "District Co-ordinator(Wardha)"
+#   thumbnailUrl: male.png
+#   subTeam: true      
+# -    
+#   id: 53
+#   name: "Dr. ANIL  "
+#   surname: "WANJARI "
+#   title: "District Co-ordinator(Wardha)"
+#   thumbnailUrl: male.png
+#   subTeam: true   
 
 
 
