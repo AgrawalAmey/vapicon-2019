@@ -220,5 +220,17 @@ Clinical Research in field of Infectious Diseases"
   name: "Dr. Nitin"
   surname: "Chandak"
   thumbnailUrl: nitinchandak.jpeg
-  rockstar: true       
+  rockstar: true   
+-       
+  id: 26
+  name: "Dr. Milind"
+  surname: "Bhurchandi"
+  thumbnailUrl: milind.jpeg
+  rockstar: true    
+-       
+  id: 27
+  name: "Dr. Anand"
+  surname: "Shivaraman"
+  thumbnailUrl: anand.jpeg
+  rockstar: true         
 
