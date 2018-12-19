@@ -1,174 +1,174 @@
 - 
   date: "2019-01-12"
-  dateReadable: "January 12 and 13"
+  dateReadable: "January 12"
   tracks: 
     - {title: "Lecture", color: "#90be4e"}
     
   timeslots:
     - {
-    	startTime: "-:-",
-    	endTime: "-:-",
-    	sessionIds: [001]
+    	startTime: "10:00",
+    	endTime: "10:30",
+    	sessionIds: [019]
       }
     - {
-        startTime: "-:-",
-        endTime: "-:-",
-        sessionIds: [002]
-      }
-    - {
-        startTime: "-:-",
-        endTime: "-:-",
-        sessionIds: [003]
-      }
-    - {
-        startTime: "-:-",
-        endTime: "-:-",
-        sessionIds: [004]
-      }
-    - {
-        startTime: "-:-",
-        endTime: "-:-",
-        sessionIds: [005]
-      }
-    - {
-        startTime: "-:-",
-        endTime: "-:-",
-        sessionIds: [006]
-      }
-    - {
-        startTime: "-:-",
-        endTime: "-:-",
-        sessionIds: [007]
-      }
-    - {
-        startTime: "-:-",
-        endTime: "-:-",
-        sessionIds: [008]
-      }
-    - {
-        startTime: "-:-",
-        endTime: "-:-",
-        sessionIds: [009]
-      }
-    - {
-        startTime: "-:-",
-        endTime: "-:-",
+        startTime: "10:30",
+        endTime: "11:00",
         sessionIds: [018]
       }
     - {
-        startTime: "-:-",
-        endTime: "-:-",
-        sessionIds: [019]
-      }
-    - {
-        startTime: "-:-",
-        endTime: "-:-",
+        startTime: "11:00",
+        endTime: "11:20",
         sessionIds: [028]
       }
     - {
-        startTime: "-:-",
-        endTime: "-:-",
+        startTime: "11:20",
+        endTime: "11:30",
+        sessionIds: [307]
+      }  
+    - {
+        startTime: "11:30",
+        endTime: "12:30",
+        sessionIds: [001]
+      }
+    - {
+        startTime: "12:30",
+        endTime: "13:00",
+        sessionIds: [006]
+      }
+    - {
+        startTime: "13:00",
+        endTime: "13:20",
+        sessionIds: [007]
+      }
+    - {
+        startTime: "13:20",
+        endTime: "14:10",
+        sessionIds: [503]
+      }
+    - {
+        startTime: "14:10",
+        endTime: "15:00",
+        sessionIds: [505]
+      }
+    - {
+        startTime: "15:00",
+        endTime: "15:30",
+        sessionIds: [002]
+      }
+    - {
+        startTime: "15:30",
+        endTime: "16:10",
+        sessionIds: [004]
+      }
+    - {
+        startTime: "16:10",
+        endTime: "16:35",
+        sessionIds: [005]
+      }
+    - {
+        startTime: "16:35",
+        endTime: "17:00",
+        sessionIds: [003]
+      }
+    - {
+        startTime: "17:00",
+        endTime: "17:10",
+        sessionIds: [083]
+      }
+    - {
+        startTime: "17:10",
+        endTime: "17:35",
         sessionIds: [029]
-      } 
-    - {
-        startTime: "-:-",
-        endTime: "-:-",
-        sessionIds: [038]
       }
     - {
-        startTime: "-:-",
-        endTime: "-:-",
-        sessionIds: [039]
-      }     
-    - {
-        startTime: "-:-",
-        endTime: "-:-",
-        sessionIds: [048]
-      }
-    - {
-        startTime: "-:-",
-        endTime: "-:-",
-        sessionIds: [049]
-      }
-    - {
-        startTime: "-:-",
-        endTime: "-:-",
-        sessionIds: [058]
-      }
-    - {
-        startTime: "-:-",
-        endTime: "-:-",
+        startTime: "17:35",
+        endTime: "18:00",
         sessionIds: [059]
-      }  
-    - {
-        startTime: "-:-",
-        endTime: "-:-",
-        sessionIds: [068]
       } 
     - {
-        startTime: "-:-",
-        endTime: "-:-",
-        sessionIds: [069]
-      }
- 
-    - {
-        startTime: "-:-",
-        endTime: "-:-",
-        sessionIds: [078]
-      }   
-    - {
-        startTime: "-:-",
-        endTime: "-:-",
-        sessionIds: [079]
-      }  
-    - {
-        startTime: "-:-",
-        endTime: "-:-",
-        sessionIds: [080]
-      } 
-    - {
-        startTime: "-:-",
-        endTime: "-:-",
+        startTime: "18:00",
+        endTime: "18:25",
         sessionIds: [081]
       }
     - {
-        startTime: "-:-",
-        endTime: "-:-",
-        sessionIds: [082]
-      }                                                                
-#     - {
-#         # startTime: "11:00",
-#         # endTime: "11:45",
-#         sessionIds: [003]
-#     }
-#     - {
-#     	# startTime: "12:00",
-#     	# endTime: "11:45",
-#     	sessionIds: [307]
-#     }
-# - 
-#   date: "2019-01-13"
-#   dateReadable: "January 13"
-#   tracks: 
-#    - {title: "Lecture", color: "#90be4e"}
-#   timeslots: 
-#     - {
-#     	startTime: "-:-",
-#     	endTime: "-:-",
-#     	sessionIds: [082]
-#     }
-#     - {
-#     	startTime: "11:00",
-#     	endTime: "11:45",
-#     	sessionIds: [002]
-#     }
-#     - {
-#         startTime: "13:00",
-#         endTime: "13:45",
-#         sessionIds: [003]
-#     }
-#     - {
-#     	startTime: "14:00",
-#     	endTime: "15:00",
-#     	sessionIds: [503]
-#     }
+        startTime: "18:25",
+        endTime: "18:50",
+        sessionIds: [080]
+      }     
+    - {
+        startTime: "18:50",
+        endTime: "19:15",
+        sessionIds: [084]
+      }
+    - {
+        startTime: "20:30",
+        endTime: "23:00",
+        sessionIds: [504]
+      }  
+     
+- 
+  date: "2019-01-13"
+  dateReadable: "January 13"
+  tracks: 
+   - {title: "Lecture", color: "#90be4e"}
+  timeslots: 
+    - {
+    	startTime: "9:45",
+    	endTime: "10:10",
+    	sessionIds: [048]
+    }
+    - {
+    	startTime: "10:10",
+    	endTime: "10:40",
+    	sessionIds: [008]
+    }
+    - {
+        startTime: "10:40",
+        endTime: "11:05",
+        sessionIds: [009]
+    }
+    - {
+    	startTime: "11:05",
+    	endTime: "11:30",
+    	sessionIds: [039]
+    }
+    - {
+        startTime: "11:30",
+        endTime: "12:00",
+        sessionIds: [058]
+    }
+    - {
+      startTime: "12:00",
+      endTime: "12:30",
+      sessionIds: [049]
+    }
+    - {
+        startTime: "12:30",
+        endTime: "13:00",
+        sessionIds: [069]
+    }
+    - {
+      startTime: "13:00",
+      endTime: "13:25",
+      sessionIds: [068]
+    }
+    - {
+      startTime: "13:25",
+      endTime: "13:50",
+      sessionIds: [079]
+    }
+    - {
+      startTime: "13:50",
+      endTime: "14:15",
+      sessionIds: [078]
+    }
+    - {
+      startTime: "14:15",
+      endTime: "14:40",
+      sessionIds: [038]
+    }
+    - {
+      startTime: "14:40",
+      endTime: "14:50",
+      sessionIds: [506]
+    }

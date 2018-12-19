@@ -1,6 +1,6 @@
 -
   id: 307
-  title: "Coffee Break"
+  title: "Discussion"
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
@@ -9,6 +9,21 @@
   title: "Lunch Break"
   place: "Dining room"
   service: true
+-
+  id: 504
+  title: "Banquet and Grand Hall Dinner"
+  place: "Swara Farms,Adarsh Nagar, Bharti Nagar, Yavatmal, Maharashtra 445001"
+  service: true  
+-
+  id: 505
+  title: "Inauguration "
+  place: "Hall"
+  service: true  
+-
+  id: 506
+  title: "Vote of Thanks"
+  place: "Hall"
+  service: true    
 -
   id: 001
   title: "Thrombolytic Therapy in ischemic stroke akluj model"
@@ -161,7 +176,14 @@
   speakers: [8]
   language: en           
 -
-  id: 082
-  title: "Yet to be finalized"
+  id: 083
+  title: "Artificial intelligence in medicine present and future"
+  speakers: [27]
   subtype: presentation
-  language: en    
+  language: en       
+-
+  id: 084
+  title: "How to start, what to start and when to start ART"
+  speakers: [26]
+  subtype: presentation
+  language: en      
